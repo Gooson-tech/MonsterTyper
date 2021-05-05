@@ -1,4 +1,4 @@
-Monster Typer
+MonsterTyper
 -------------
 
 ## Overview 
